@@ -1,3 +1,2 @@
 # Chat App
-<br>
-## Learning about socket.io
+Learning about socket.io
